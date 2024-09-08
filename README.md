@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashilrambarath
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Computer Science in University.
+- 🌱 I’m currently studying Computer Science in University.
 - 💞️ I’m looking to collaborate on Open-Source projects.
 - 📫 You can reach me via DMs.
 - 😄 Pronouns: he/him.
